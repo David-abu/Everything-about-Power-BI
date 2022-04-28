@@ -56,7 +56,7 @@ It is so easy to start with Power BI, but hard to master it.
 > sorted alphabetically :heart:
 
 * Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
-* David Abu .[David Abu].(https://bit.ly/davidabu)
+* David Abu [David Abu](https://bit.ly/davidabu)
 * Alex Dupler & Alex Powers [Two Alex](https://www.youtube.com/channel/UCOZRKgwJMnfnipCEy9CxCjg)
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
 * Bas Dohmen [How to Power BI](https://www.youtube.com/channel/UCcfngi7_ASuo5jdWX0bNauQ)
